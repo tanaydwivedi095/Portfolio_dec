@@ -105,7 +105,6 @@ export const InfiniteMovingCards = ({
             // change to idx cuz we have the same name
             key={idx}
           >
-            <a href={item.link}>
               <blockquote>
                 <div
                   aria-hidden="true"
@@ -131,15 +130,7 @@ export const InfiniteMovingCards = ({
                     </span>
                   </span>
                 </div>
-                
-                  <div className="flex justify-end">
-                      <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                        Check Publication
-                      </p>
-                      <FaLocationArrow className="ms-3" color="#CBACF9" />
-                  </div>
               </blockquote>
-            </a>
           </li>
         ))}
       </ul>
