@@ -106,6 +106,7 @@ export const InfiniteMovingCards = ({
             // change to idx cuz we have the same name
             key={idx}
           >
+            <a href={item.link}>
               <blockquote>
                 <div
                   aria-hidden="true"
@@ -132,6 +133,7 @@ export const InfiniteMovingCards = ({
                   </span>
                 </div>
               </blockquote>
+              </a>
           </li>
         ))}
       </ul>
