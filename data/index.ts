@@ -118,14 +118,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Skin cancer, including melanoma, affects millions globally, and early detection is crucial. Our research presents a lightweight B-16 Vision Image Transformer (LViT) model for accurately classifying skin lesions. Achieving up to 95.82% accuracy, the LViT model is efficient, resource-friendly, and performs well on both small and large datasets, offering an effective solution for skin cancer diagnosis. The work was published in the Springer International Journal of System Assurance Engineering and Management.",
+      "Skin cancer affects millions globally, making early detection vital. Our lightweight B-16 Vision Transformer (LViT) achieves up to 95.82% accuracy in skin lesion classification, offering a resource-efficient solution for diagnosis. Published in *Springer International Journal of System Assurance Engineering and Management.",
     name: "LViT Model for Skin Cancer Classification.",
     title: "Oct 2023 to Sept 2024",
     link: "https://link.springer.com/article/10.1007/s13198-024-02521-6"
   },
   {
     quote:
-      "Skin cancer is the leading cause of cancer-related deaths, requiring early detection for effective treatment. We propose a hybrid CNN model with transfer learning and a random forest classifier to enhance skin cancer detection. Tested on benign and malignant skin mole datasets, the model achieved up to 90.11% accuracy, demonstrating its effectiveness for skin cancer classification. The work was published in the Springer Medical and Biological Engineering and Computing.",
+      "Skin cancer, a leading cause of cancer deaths, demands early detection for effective treatment. Our hybrid CNN model with transfer learning and a random forest classifier achieved 90.11% accuracy on skin mole datasets, proving its effectiveness. Published in *Springer Medical and Biological Engineering and Computing.",
     name: "A hybrid CNN with transfer learning for skin cancer disease detection",
     title: "June 2023 to May 2024",
     link: "https://link.springer.com/article/10.1007/s11517-024-03115-x"
