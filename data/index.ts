@@ -77,9 +77,9 @@ export const projects = [
     id: 1,
     title: "Nutrition RAG",
     des: "Fine Tuned LLM able to generate answers based on nutrition.",
-    img: "/myp1.png",
+    img: "/rag.png",
     iconLists: ["/pytorch.svg", "/gemma.svg", "/python.png", "/huggingFace.svg"],
-    link: "//github.com/tanaydwivedi095/storyGenerator",
+    link: "//github.com/tanaydwivedi095/nutritionRAG",
   },
   {
     id: 2,
