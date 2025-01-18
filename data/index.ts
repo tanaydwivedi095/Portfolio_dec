@@ -43,7 +43,7 @@ export const gridItems = [
     id: 4,
     title: "Tech enthusiast trying to push past limits.",
     description: "",
-    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
+    className: "lg:col-span-3 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "/grid.svg",
@@ -52,7 +52,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Large Language Model CHANGED AGAIN.",
+    title: "Currently building a Large Language Model.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
