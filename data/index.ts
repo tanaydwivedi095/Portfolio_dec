@@ -43,7 +43,7 @@ export const gridItems = [
     id: 4,
     title: "Tech enthusiast trying to push past limits.",
     description: "",
-    className: "lg:col-span-3 md:col-span-3 md:row-span-1",
+    className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
     titleClassName: "justify-start",
     img: "/grid.svg",
