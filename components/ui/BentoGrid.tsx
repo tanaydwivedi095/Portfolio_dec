@@ -168,18 +168,6 @@ export const BentoGridItem = ({
                 ))}
               </div>
             </div>
-            <div className="flex flex-col gap-1 md:gap-1 lg:gap-1">
-                {leftLists.map((item, i) => (
-                  <span
-                    key={i}
-                    className="lg:py-2 lg:px-3 py-2 px-3 text-xs lg:text-s opacity-50 
-                    lg:opacity-100 rounded-lg text-center bg-[#10132E]"
-                  >
-                    {item}
-                  </span>
-                ))}
-                <span className="lg:py-4 lg:px-3 py-4 px-3  rounded-lg text-center bg-[#10132E]"></span>
-              </div>
           )}
           {id === 6 && (
             <div className="mt-5 relative">
