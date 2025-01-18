@@ -3,7 +3,7 @@ import { title } from "process";
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Publications", link: "#publications" },
+  // { name: "Publications", link: "#publications" },
   { name: "Experiences", link: "#experience" },
   { name: "Contact", link: "#contact" },
 ];
