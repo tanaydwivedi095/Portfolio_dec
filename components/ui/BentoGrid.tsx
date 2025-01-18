@@ -54,7 +54,7 @@ export const BentoGridItem = ({
 }) => {
   const list1 = [" "," ","PyTorch", "Python", "Streamlit","Docker","Azure"];
   const list2 = ["Kubernetes", "Django", "SQL","Hadoop","Kafka"," "," "];
-  const list3 = [" "," ","PyTorch", "Python", "Streamlit","Docker","Azure"];
+  const list3 = [" "," ","Java", "HQL", "NLP","Transformers","LLM"];
 
   const [copied, setCopied] = useState(false);
 
@@ -68,7 +68,7 @@ export const BentoGridItem = ({
   };
 
   const handleCopy = () => {
-    const text = "hsu@jsmastery.pro";
+    const text = "tanaydwivedi095@gmail.com";
     navigator.clipboard.writeText(text);
     setCopied(true);
   };
