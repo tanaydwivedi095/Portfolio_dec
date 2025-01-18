@@ -75,6 +75,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Nutrition RAG",
+    des: "Fine Tuned LLM able to generate answers based on nutrition.",
+    img: "/myp1.png",
+    iconLists: ["/pytorch.svg", "/gemma.svg", "/python.png", "/huggingFace.svg"],
+    link: "//github.com/tanaydwivedi095/storyGenerator",
+  },
+  {
+    id: 2,
     title: "Story Generator",
     des: "AI-driven story generator creating endless, interactive, unique narratives.",
     img: "/myp1.png",
@@ -82,7 +90,7 @@ export const projects = [
     link: "//github.com/tanaydwivedi095/storyGenerator",
   },
   {
-    id: 2,
+    id: 3,
     title: "Movie Subtitle Generator",
     des: "AI-powered tool generating accurate, real-time movie subtitles.",
     img: "/myp2.png",
@@ -90,7 +98,7 @@ export const projects = [
     link: "//github.com/tanaydwivedi095/movieSubtitleGenerator",
   },
   {
-    id: 3,
+    id: 4,
     title: "Skin Cancer Classification System",
     des: "AI-driven skin cancer classifier using transfer learning and transformers.",
     img: "/myp3.png",
@@ -98,7 +106,7 @@ export const projects = [
     link: "//github.com/tanaydwivedi095/Streamlit-UI-for-Skin-Cancer-Predictions",
   },
   {
-    id: 4,
+    id: 5,
     title: "Stock Price Predictor",
     des: "Predictive system using machine learning to forecast stock prices.",
     img: "/myp4.png",
@@ -106,7 +114,7 @@ export const projects = [
     link: "//github.com/tanaydwivedi095/Stock-Price-Prediction-Algorithm",
   },
   {
-    id: 5,
+    id: 6,
     title: "Movie Recommendation System",
     des: "Personalized movie recommendation system delivering tailored suggestions.",
     img: "/myp5.png",
